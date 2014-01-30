@@ -29,7 +29,7 @@ You should get something like `Python 2.7.6`. Everything above `Python 2.6.x` an
 ### Windows
  It is not very likely that you have Python installed without your knowledge, so you can just go to the [official python website](http://www.python.org/download/) and download the newest `Python 2.7.x` for windows there. 
  
- 
+...to be continued...
 
 
 
