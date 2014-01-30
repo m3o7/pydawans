@@ -13,6 +13,19 @@ This page is intented to give people a quick starting guide to the programming l
 ## setup
 Without further ado lets get you started!
 
-1. **Install me**  
+**1. Install me:**  
+Python was ported to many platforms and might in fact already be running on your system.  
+**(Mac, Linux):**  
+Here we just need to make sure that you have a relatively new python version. This will make your life a lot easier. Just open the `terminal`-app (e.g.: [mac-os-x](http://en.wikipedia.org/wiki/Terminal_(OS_X)), [linux ubuntu](https://help.ubuntu.com/community/UsingTheTerminal)) and type the following:
+
+```bash
+python --version
+```
+
+You should get something like `Python 2.7.6`. Everything above `Python 2.6.x` should be more than enough for this tutorial. If you have a lower version number, please go to the [official python website](http://www.python.org/download/) and download the newest version. 
+
+ **Install me: (Windows)**
+ It is not very likely that you have Python installed without your knowledge, so you can just go to the [official python website](http://www.python.org/download/) and download the newest version for windows there.
+
 
 
