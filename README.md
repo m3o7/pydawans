@@ -72,7 +72,10 @@ ipython notebook --pylab inline
 ### Mac, Linux, Windows
 ```bash
 cd <PATH-TO-UNPACKED-FOLDER>
-### e.g.: cd /Users/marco/Downloads/pydawans-master/
+### e.g.: (Mac, Linux)
+### cd /Users/marco/Downloads/pydawans-master/
+### (Windows)
+### cd C:\Downloads\pydawans-master\
 
 ipython notebook --pylab inline
 ```
