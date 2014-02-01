@@ -53,7 +53,7 @@ ipython notebook --pylab inline
 
 ### [Windows](http://ipython.org/ipython-doc/stable/install/install.html#windows)
 
-Install the [setuptools](https://pypi.python.org/pypi/setuptools#windows), if needed.
+Install the [setuptools](https://pypi.python.org/pypi/setuptools#windows), if needed. `if needed` in this case means you have to check if the `easy_install.exe` is present in the folder `C:\Python27\Scripts`.
 
 ```bat
 cd C:\Python27\Scripts
