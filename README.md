@@ -26,7 +26,13 @@ python --version
 
 You should get something like `Python 2.7.6`. Everything above `Python 2.6.x` and below `Python 3.x` should be more than enough for this tutorial. If you have a lower version number, please go to the [official python website](http://www.python.org/download/) and download the newest version.
 
-### Mac, Linux
+### Windows
+ It is not very likely that you have Python installed without your knowledge, so you can just go to the [official python website](http://www.python.org/download/) and download the newest `Python 2.7.x` for windows there. 
+
+## 2. Installing all the other stuff
+The teaching tool I am using is called [iPython notebook](http://ipython.org/notebook.html).
+
+### [Mac, Linux](http://ipython.org/ipython-doc/stable/install/install.html#installation-using-easy-install-or-pip)
 
 Open your terminal and type the following
 ```bash
@@ -39,13 +45,6 @@ You can test your setup by running:
 ```bash
 ipython notebook --pylab inline
 ```
-
-### Windows
- It is not very likely that you have Python installed without your knowledge, so you can just go to the [official python website](http://www.python.org/download/) and download the newest `Python 2.7.x` for windows there. 
-
-## 2. Installing all the other stuff
-The teaching tool I am using is called [iPython notebook](http://ipython.org/notebook.html).
-
 
 ### [Windows](http://ipython.org/ipython-doc/stable/install/install.html#windows)
 
