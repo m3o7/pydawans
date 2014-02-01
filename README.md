@@ -7,8 +7,13 @@ pydawans
 more octocat art: http://octodex.github.com/
 -->
 
+
 ## welcome
 This page is intented to give people a quick starting guide to the programming language Python. The content is directed to developers trying out Python for the first time, as well as people who are new to programming and try to get up to speed quickly with pratical examples. A quick word of advice especially for the newbies - do not get discouraged - I spend a lot of time on [stackoverflow](http://stackoverflow.com/)(great ressource to check if you are stuck), meaning: programming is like life-long learning; you will never have mastered everything. And always remember: `Fear is the path to the Dark Side`.
+
+## fast track
+If you really do not have much time and just want to get a glimpse of python you can go to [http://learnpython.org/](http://learnpython.org/). There you will learn the most basic python commands interactively without having to setup your own environment.  
+However, if you want to run the code locally and also get a deeper look into python and how to write programs you might want to read on.
 
 ## setup
 Without further ado lets get you started!
