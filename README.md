@@ -83,7 +83,9 @@ ipython notebook --pylab inline
 The following browser window should open(there might be more entries):  
 <img src="http://farm6.staticflickr.com/5496/12246516444_a638e4d187_b.jpg" width="850px;">
 
-Just click on the exercises and play with them :-)
+Just click on the exercises and play with them.
+**FYI:** Until I have had the time to write `exercise 0 - how to work with ipython notebook` you might want to familarize yourself with it yourself either [here](http://ipython.org/notebook.html) or [here](http://www.youtube.com/watch?v=vpakMygIu0o) or simply by googling.
+
 
 
 
