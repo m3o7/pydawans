@@ -62,18 +62,22 @@ cd C:\Python27\Scripts
 
 You can test the server by running:
 ```bash
-ipython note­book –pylab
+ipython notebook --pylab inline
 ```
 
 ## 3. Lets finally get started
 
-[Download](https://github.com/marcopashkov/pydawans/archive/master.zip) the project as a zip file and unpack it(or if you have experience with github you can also `checkout` this repository).
+[Download](https://github.com/marcopashkov/pydawans/archive/master.zip) the project as a zip(`pydawans-master.zip`) file and unpack it(or if you have experience with github you can also `checkout` this repository).
 
-### Mac, Linux
+### Mac, Linux, Windows
 ```bash
 cd <PATH-TO-UNPACKED-FOLDER>
-### e.g.: cd /Users/marco/Downloads/
+### e.g.: cd /Users/marco/Downloads/pydawans-master/
+
+ipython notebook --pylab inline
 ```
+
+The following browser window should open:
 
 
 
