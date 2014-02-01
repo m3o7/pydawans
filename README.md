@@ -65,6 +65,15 @@ You can test the server by running:
 ipython note­book –pylab
 ```
 
+## 3. Lets finally get started
+
+[Download](https://github.com/marcopashkov/pydawans/archive/master.zip) the project as a zip file and unpack it(or if you have experience with github you can also `checkout` this repository).
+
+### Mac, Linux
+```bash
+cd <PATH-TO-UNPACKED-FOLDER>
+### e.g.: cd /Users/marco/Downloads/
+```
 
 
 
