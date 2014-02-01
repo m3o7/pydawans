@@ -80,7 +80,8 @@ cd <PATH-TO-UNPACKED-FOLDER>
 ipython notebook --pylab inline
 ```
 
-The following browser window should open:
+The following browser window should open:  
+<img src="http://farm6.staticflickr.com/5496/12246516444_a638e4d187_b.jpg" width="850px;">
 
 
 
